@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- <img src="https://github-readme-stats.vercel.app/api?username=white-paprika&show_icons=true&theme=great-gatsby">
+- <img src="https://github-readme-stats.vercel.app/api?username=Ivan-Lysenko&show_icons=true&theme=great-gatsby">
 
 <!---
 Ivan-Lysenko/Ivan-Lysenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
