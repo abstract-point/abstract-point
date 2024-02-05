@@ -1,5 +1,20 @@
-👋 Hi, I’m @Ivan-Lysenko <br>
-👀 My Git stats <br>
+
+<h1>Ivan Lysenko</h1>
+<strong><code>Backend Developer | Laravel</code></strong><br><br>
+<ul>
+  <li> Strong problem-solving abilities </li>
+</ul>
+
+<h2 class="markdown-body">💻 Tech Stack:</h2>
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />          
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<br>
+<h2>🌌 Socials:</h2>
+Telegram: <a href="https://t.me/@obivantg">@obivantg</p>
+  
+<h2>📈 Stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=Ivan-Lysenko&show_icons=true&theme=great-gatsby">
 
 <!---
