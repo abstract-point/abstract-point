@@ -6,10 +6,17 @@
 </ul>
 
 <h2 class="markdown-body">💻 Tech Stack:</h2>
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />          
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<ul>
+  <li> PHP </li>
+  <li> Laravel </li>
+  <li> SQL </li>
+  <li> Git </li>
+  <li> Docker </li>
+</ul>
+
+
+
+
 <br>
 <h2>🌌 Socials:</h2>
 Telegram: <a href="https://t.me/@obivantg">@obivantg</p>
