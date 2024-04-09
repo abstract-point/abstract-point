@@ -7,8 +7,10 @@
 
 <h2 class="markdown-body">💻 Tech Stack:</h2>
 <ul>
-  <li> PHP </li>
-  <li> Laravel </li>
+  <li> PHP 7+ </li>
+  <li> Laravel 8+ </li>
+  <li> Javascript </li>
+  <li> Vue 3 </li>
   <li> SQL </li>
   <li> Git </li>
   <li> Docker </li>
