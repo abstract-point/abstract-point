@@ -22,4 +22,4 @@
 <br>
 <h2>🌌 Contacts:</h2>
 <p></p>Telegram: <a href="https://t.me/@obivantg">@obivantg</a></p>
-<p>Website: <a href="https://ivandev.pro">https://ivandev.pro</a></p>
+<p>Homepage: <a href="https://ivandev.pro">https://ivandev.pro</a></p>
