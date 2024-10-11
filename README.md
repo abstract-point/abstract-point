@@ -1,6 +1,6 @@
 
 <h1>Ivan Lysenko</h1>
-<strong><code>Backend Developer | Laravel | Vue</code></strong><br><br>
+<strong><code>Fullstack Developer | Laravel | Vue</code></strong><br><br>
 <ul>
   <li> Strong problem-solving abilities </li>
 </ul>
