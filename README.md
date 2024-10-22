@@ -10,6 +10,7 @@
   <li> PHP 7+ </li>
   <li> Laravel 8+ </li>
   <li> Javascript </li>
+  <li> Typescript </li>
   <li> Vue 3 </li>
   <li> SQL </li>
   <li> Git </li>
