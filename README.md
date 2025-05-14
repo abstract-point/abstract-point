@@ -31,5 +31,5 @@
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abstract-point&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=abstract-point&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
 </p>
