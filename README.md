@@ -5,7 +5,7 @@
 <h2>👨‍💻 About Me:</h2>
 <ul>
   <li>💼 Fullstack Developer at a messaging tech company</li>
-  <li>🧠 Learning Go, mastering Laravel + Vue ecosystem</li>
+  <li>🧠 Mastering Laravel + Vue ecosystem</li>
   <li>📈 Looking to grow and take on more responsibility</li>
   <li>❤️ Passionate about writing clean, testable code</li>
 </ul>
