@@ -26,7 +26,6 @@
 <h2>📫 Contact Me</h2>
 <p>
   Telegram: <a href="https://t.me/obivantg">@obivantg</a><br>
-  Website: <a href="https://ivandev.pro">ivandev.pro</a><br>
 </p>
 
 <h2>📊 GitHub Stats</h2>
