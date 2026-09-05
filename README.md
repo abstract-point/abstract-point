@@ -1,7 +1,7 @@
 <h1 align="left">Ivan Lysenko</h1>
 
 <p>
-  Software engineer · Laravel · Vue/TypeScript · Linux, networking & open source
+  Software engineer
 </p>
 
 <p>
